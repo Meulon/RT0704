@@ -7,6 +7,7 @@
 	Extension de l'appel d'une fonction
 		- à travers un réseau
 		- exploitant des requêtes et réponses
+		
 ## Solutions aux problèmes
 	Protocoles d'échanges standard
 		- HTTP, SMTP...
@@ -20,6 +21,7 @@
 		- marshalling et unmarshalling
 			UTF8, texte par exemple
 		- appel et transport des données / résultat
+		
 ## Solution proposées
 	XML-RPC
 	Services WEB
